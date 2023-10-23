@@ -1,36 +1,36 @@
-/* Reset default margin and padding for all elements */
-* {
+/* Reset default margin dan padding semua elemen */
+{
     margin: 0;
     padding: 0;
 }
 
-/* Style the body with a background color and text color */
+/* Style body background color dan text color */
 body {
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
     color: #333;
 }
 
-/* Style the header with a background color, text color, and padding */
+/* Style header background color, text color, dan padding */
 header {
     background-color: #333;
     text-align: center;
     padding: 20px;
 }
 
-/* Style the h1 inside the header */
+/* Style h1 header */
 header h1 {
     font-size: 2em;
     color: #fff;
 }
 
-/* Style the .container with margin and padding */
+/* Style .container margin dan padding */
 .container {
     margin: 20px;
     padding: 20px;
 }
 
-/* Style the .Onlineshop elements with a background color and padding */
+/* Style .Onlineshop elemen background color dan padding */
 .Onlineshop {
     background-color: #fff;
     padding: 20px;
@@ -38,33 +38,33 @@ header h1 {
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
 
-/* Style the images within .Onlineshop */
+/* Style gambar .Onlineshop */
 .Onlineshop img {
     max-width: 100px;
     border: 1px solid #ddd;
     border-radius: 5px;
 }
 
-/* Style the h2 within .Onlineshop */
+/* Style h2 .Onlineshop */
 .Onlineshop h2 {
     font-size: 1.5em;
     color: #333;
     margin: 10px 0;
 }
 
-/* Style the paragraphs within .Onlineshop */
+/* Style paragraph .Onlineshop */
 .Onlineshop p {
     line-height: 1.5;
 }
 
-/* Style the links within .Onlineshop */
+/* Style link .Onlineshop */
 .Onlineshop a {
     text-decoration: none;
     color: #3498db;
     font-weight: bold;
 }
 
-/* Style the links within the navigation menu */
+/* Style link navigation menu */
 nav ul {
     list-style: none;
     display: flex;
@@ -83,14 +83,14 @@ nav a {
     font-weight: bold;
 }
 
-/* Style the footer */
+/* Style footer */
 footer {
     background-color: #333;
     text-align: center;
     padding: 10px 0;
 }
 
-/* Style the copyright text within the footer */
+/* Style copyright text footer */
 footer p {
     color: #fff;
 }
