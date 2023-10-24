@@ -61,6 +61,15 @@
             window.open('www.bukalapak.com/');
         });
 
+          // Mengubah teks header ketika dihover
+        const header = document.querySelector('header h1');
+        header.addEventListener('mouseover', function() {
+            header.textContent = 'Selamat Datang di Kumpulan Online Shop';
+        });
+        header.addEventListener('mouseout', function() {
+            header.textContent = 'Kumpulan Online Shop';
+        });
+
         // Animasi gambar Lazada ketika diklik
         const wallmartImage = document.querySelector('.Onlineshop img[src="Lazada.png"]');
         lazadaImage.addEventListener('click', function() {
