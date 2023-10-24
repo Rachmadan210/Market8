@@ -262,6 +262,28 @@ FITUR SISTEM DAN KERANGKA DESAIN FITUR
 
 Menjelaskan mengenai proses yang akan dilakukan oleh sistem yang ada didalam website Market 8 ini developmen akan mengajak sebuah berbagai e-comerce untuk kerja sama yang dapat menguntung e-comerce karena website ini dapat memunculkan dan memberikan akses cepat dan ringan ke dalam e-comerce mereka
 
-4.1 Halaman
+4.1 Halaman e-comerce pada tampilan pertama
 
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/Tampilan%201%20Website%20Market%208.png.jpg?raw=true)
+
+4.2 Halaman e-comerce pada tampilan kedua
+
+![alt text](?raw=true)
+
+4.3 Halaman e-comerce pada tampilan ketiga
+
+![alt text](?raw=true)
+
+4.4 Halaman e-comerce pada tampilan ke empat
+
+![alt text](?raw=true)
+
+4.5 Halaman e-comerce pada tampilan ke lima
+
+![alt text](?raw=true)
+
+4.6 Halaman e-comerce pada tampilan ke enam
+
+![alt text](?raw=true)
+
+
