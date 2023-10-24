@@ -422,7 +422,7 @@ markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualn
 
 
 3. Penjelasan source code CSS
-![alt text](?raw=true)
+![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20css%201.jpg?raw=true)
 
 
 ![alt text](?raw=true)
