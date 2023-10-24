@@ -415,6 +415,7 @@ markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualn
 1. Penjelasan source code HTML
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20html%201.jpg?raw=true)
 
+
  > Tag <HEAD> tugasnya adalah memberikan informasi tentang dokumen, maksudnya didalam tag <head> kita bisa menambahkan tag- tag yang biasanya digunakan untuk memberikan informasi berupa penulis, judul dokumen, kata kunci pada dokumen dan masih banyak lagi informasi yang bisa di tambahkan pada tag ini.
   > I DOCTYPE untuk mendeklarasikan sebuah instruksi yang mengaitkan dokumen XML atau SGML tertentu dengan definisi tipe dokumen.
   > deklarasi <html lang="en">memberi tahu browser bahwa semua konten di halaman tresebut adalah bahasa Inggris. subtag langjuga memiliki skrip atau penunjuk wilayah, yang memungkinkan Anda menentukan sistem penulisan bahasa atau wilayah geografis.
@@ -425,12 +426,39 @@ markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualn
   > <body> sebagai bagian isi/konten yang ingin ditampilkan dalam sebuah halaman web
   > Tag <div> digunakan sebagai wadah elemen HTML - yang kemudian ditata dengan CSS atau dimanipulasi dengan JavaScript.  Tag <div> mudah ditata dengan menggunakan atribut class atau id.  Segala jenis konten dapat dimasukkan ke dalam tag <div>
   > Tag <img>digunakan untuk menyematkan gambar di halaman HTML. Gambar secara teknis tidak dimasukkan ke dalam halaman web; gambar ditautkan ke halaman web. Tag <img>menciptakan ruang penahan untuk gambar yang direferensikan.
+  > <h2> Tag HTML yang digunakan untuk menunjukkan bagian penting pada halaman website
+  > <p> untuk membuat paragraf
+  > Tag HTML <a> untuk Menunjukkan bahwa target dari link tersebut akan didownload ketika user mengkliknya lalu "href" menentukan untuk alamat URL atau nama ID halaman atau element yang akan dituju.
 
+  
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20html%201.jpg?raw=true)
+
+
+  > Tag <div> digunakan sebagai wadah elemen HTML - yang kemudian ditata dengan CSS atau dimanipulasi dengan JavaScript.  Tag <div> mudah ditata dengan menggunakan atribut class atau id.  Segala jenis konten dapat dimasukkan ke dalam tag <div>
+  > <br> untuk membuat baris baru
+  > Tag <img>digunakan untuk menyematkan gambar di halaman HTML. Gambar secara teknis tidak dimasukkan ke dalam halaman web; gambar ditautkan ke halaman web. Tag <img>menciptakan ruang penahan untuk gambar yang direferensikan.
+  > <h2> Tag HTML yang digunakan untuk menunjukkan bagian penting pada halaman website
+  > <p> untuk membuat paragraf
+  > Tag HTML <a> untuk Menunjukkan bahwa target dari link tersebut akan didownload ketika user mengkliknya lalu "href" menentukan untuk alamat URL atau nama ID halaman atau element yang akan dituju.
+  > <nav> pada HTML yang dibuat untuk mempresentasikan link navigasi.
+  > <ul> digunakan untuk menampilkan daftar item yang sejajar, tanpa prioritas atau urutan tertentu. Dalam praktiknya, kamu bisa menggunakan tag < ul > untuk mendefinisikan list dan tag < li > untuk setiap item dalam list.
+  > <li> Untuk membuat nested list di HTML, list tambahan harus diletakkan di dalam tag <li>. Fungsi li pada html adalah untuk menampilkan item pada unordered dan ordered list. Sedangkan pada description list tidak menggunakan tag <li>.
+  > <Footer> seringkali berisi informasi seperti: Tautan ke halaman penting seperti "Tentang Kami," "Kontak," "Kebijakan Privasi," dan lain-lain. Informasi kontak seperti alamat, nomor telepon, dan alamat email.
+
 
 
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20html%203.jpg?raw=true)
 
+
+  > <p> untuk membuat paragraf
+  > Tag HTML <a> untuk Menunjukkan bahwa target dari link tersebut akan didownload ketika user mengkliknya lalu "href" menentukan untuk alamat URL atau nama ID halaman atau element yang akan dituju.
+  > Tag <div> digunakan sebagai wadah elemen HTML - yang kemudian ditata dengan CSS atau dimanipulasi dengan JavaScript.  Tag <div> mudah ditata dengan menggunakan atribut class atau id.  Segala jenis konten dapat dimasukkan ke dalam tag <div>
+  > <nav> pada HTML yang dibuat untuk mempresentasikan link navigasi.
+  > <ul> digunakan untuk menampilkan daftar item yang sejajar, tanpa prioritas atau urutan tertentu. Dalam praktiknya, kamu bisa menggunakan tag < ul > untuk mendefinisikan list dan tag < li > untuk setiap item dalam list.
+  > <li> Untuk membuat nested list di HTML, list tambahan harus diletakkan di dalam tag <li>. Fungsi li pada html adalah untuk menampilkan item pada unordered dan ordered list. Sedangkan pada description list tidak menggunakan tag <li>.
+  > <Footer> seringkali berisi informasi seperti: Tautan ke halaman penting seperti "Tentang Kami," "Kontak," "Kebijakan Privasi," dan lain-lain. Informasi kontak seperti alamat, nomor telepon, dan alamat email.
+  > <body> sebagai bagian isi/konten yang ingin ditampilkan dalam sebuah halaman web
+  > deklarasi <html lang="en">memberi tahu browser bahwa semua konten di halaman tresebut adalah bahasa Inggris. subtag langjuga memiliki skrip atau penunjuk wilayah, yang memungkinkan Anda menentukan sistem penulisan bahasa atau wilayah geografis.
 
 3. Penjelasan source code CSS
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20css%201.jpg?raw=true)
