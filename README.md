@@ -100,3 +100,24 @@ pengembangan perangkat lunak, termasuk:
 
 1.5 Cakupan Produk
 
+Dokumen ini menjelaskan tentang perangkat lunak website Market 8. Tujuan dari perangkat lunak ini adalah untuk memfasilitasi operasi dari sebuah toko dan e-comerce atau yang sering disebut toko online. Website ini dirancang untuk memungkinkan pengguna untuk melakukan akses cepat dalam pencarian toko online yang ingin di kunjungi,  pelaporan secara efektif Dengan website ini, pemilik toko dapat atau pemilik e-comerce dapat melakukan kerjasama dengan website kami dan dpaat juga melakukan pelacakan berapa kali toko online tersebut di cari oleh pengguna mengelola.
+
+1.6 Referensi
+
+1. https://media.neliti.com/media/publications/55496-ID-none.pdf
+2. https://media.neliti.com/media/publications/496548-implementasi-progressive-web-application-f6b0aaf9.pdf
+3. http://e-journal.uajy.ac.id/6722/1/JURNAL.pdf
+4. https://ejournal.gunadarma.ac.id/index.php/infokom/article/view/1743/1502
+5. https://ejournal.undiksha.ac.id/index.php/insert/article/download/50467/23020
+6. https://jurnal.umj.ac.id/index.php/semnaskat/article/download/10666/6015
+7. https://ejournal.uinib.ac.id/jurnal/index.php/tathwir/article/download/2767/pdf
+8. https://ejournal.jak-stik.ac.id/index.php/komputasi/article/view/170/362
+9. https://jurnal.ibik.ac.id/index.php/jikes/article/download/403/705/
+10. https://www.researchgate.net/publication/327543746_RANCANG_BANGUN_WEBSITE_TOKO_ONLINE_MENGGUNAKAN_METODE_WATERFALL
+
+BAB 2
+DESKRIPSI KESELURUHAN
+
+2.1 Perspektif Produk
+
+Produk yang dijelaskan dalam SRS ini adalah webiste Market 8. yang merupakan website yang bertujuan untuk menyediakan platform bagi pengguna untuk mengakses cepat ke dalam sebuah e-comerce untuk membeli barang-barang dan mengecek barang secara online.
