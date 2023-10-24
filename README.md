@@ -408,3 +408,12 @@ markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualn
 2. Flowcart Diagram
 
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/Flowrcart%20Diagram.png.jpg?raw=true)
+
+6.3 Lampiran C Penjelasan Source Code
+
+1. Penjelasan source code HTML
+![alt text](?raw=true)
+
+2. Penjelasan source code CSS
+![alt text](?raw=true)
+
