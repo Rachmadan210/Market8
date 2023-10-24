@@ -47,5 +47,31 @@
     <footer>
         <p>&copy; 2023 Kumpulan Link Online Shop</p>
     </footer>
+
+    <script>
+      // Event Listener untuk tautan Lazada
+        document.querySelector('a[href="www.lazada.com/"]').addEventListener('click', function(event) {
+            event.preventDefault();
+            window.open('www.lazada.com/');
+        });
+
+        // Event Listener untuk tautan Bukalapak
+        document.querySelector('a[href="www.bukalapak.com/"]').addEventListener('click', function(event) {
+            event.preventDefault();
+            window.open('www.bukalapak.com/');
+        });
+
+        // Animasi gambar Lazada ketika diklik
+        const wallmartImage = document.querySelector('.Onlineshop img[src="Lazada.png"]');
+        lazadaImage.addEventListener('click', function() {
+            lazadaImage.style.transform = 'rotate(360deg)';
+        });
+
+        // Animasi gambar Bukalapak ketika diklik
+        const alibabaImage = document.querySelector('.Onlineshop img[src="Bukalapak.png"]');
+        bukalapakImage.addEventListener('click', function() {
+            bukalapakImage.style.transform = 'rotate(360deg)';
+        });
+    </script>
 </body>
 </html>
