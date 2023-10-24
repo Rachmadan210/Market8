@@ -404,6 +404,16 @@ markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualn
 1. Use Case
 
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/Use%20Case.png.jpg?raw=true)
+  > Tag <HEAD> tugasnya adalah memberikan informasi tentang dokumen, maksudnya didalam tag <head> kita bisa menambahkan tag- tag yang biasanya digunakan untuk memberikan informasi berupa penulis, judul dokumen, kata kunci pada dokumen dan masih banyak lagi informasi yang bisa di tambahkan pada tag ini.
+  > I DOCTYPE untuk mendeklarasikan sebuah instruksi yang mengaitkan dokumen XML atau SGML tertentu dengan definisi tipe dokumen.
+  > deklarasi <html lang="en">memberi tahu browser bahwa semua konten di halaman tresebut adalah bahasa Inggris. subtag langjuga memiliki skrip atau penunjuk wilayah, yang memungkinkan Anda menentukan sistem penulisan bahasa atau wilayah geografis.
+  > UTF-8 adalah sebuah pengkodean karakter dengan lebar variabel tertentu yang mewakili setiap karakter komputer dalam himpunan karakter Unicode.
+  > menggunakan tag <meta name='viewport'>, kita bisa mengatur viewport sesuai kebutuhan. untuk bisa membuat web menjadi responsive.. kita membutuhkan bantuan dari tag <meta name='viewport'> untuk mengatur viewport.
+  > Tag <link>mendefinisikan hubungan antara dokumen saat ini dan sumber daya eksternal. Lalu ketika link rel maka, Diperlukan untuk Menentukan hubungan antara dokumen saat ini dan dokumen tertaut 
+  > Title bar adalah batang judul yang berfungsi untuk menampilkan nama dari jendela program tersebut.
+  > <body> sebagai bagian isi/konten yang ingin ditampilkan dalam sebuah halaman web
+  > Tag <div> digunakan sebagai wadah elemen HTML - yang kemudian ditata dengan CSS atau dimanipulasi dengan JavaScript.  Tag <div> mudah ditata dengan menggunakan atribut class atau id.  Segala jenis konten dapat dimasukkan ke dalam tag <div>
+  > Tag <img>digunakan untuk menyematkan gambar di halaman HTML. Gambar secara teknis tidak dimasukkan ke dalam halaman web; gambar ditautkan ke halaman web. Tag <img>menciptakan ruang penahan untuk gambar yang direferensikan.
 
 2. Flowcart Diagram
 
@@ -431,5 +441,5 @@ markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualn
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20css%203.jpg?raw=true)
 
 
-![alt text](?raw=true)
+![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20css%204.jpg?raw=true)
 
