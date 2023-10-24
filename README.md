@@ -286,4 +286,125 @@ Menjelaskan mengenai proses yang akan dilakukan oleh sistem yang ada didalam web
 
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/Tampilan%206%20Website%20Market%208.png.jpg?raw=true)
 
+BAB 5
+PERSYARATAN NON-FUNGSIONAL LAINNYA
 
+5.1 Persyaratan Kinerja
+
+Persyaratan keselamatan sangat penting untuk memastikan produk aman digunakan oleh pengguna. Berikut adalah beberapa contoh persyaratanh keselamatan yang mungkin diperlukan:
+
+1. Produk harus memenuhi standar keselamatan yang relevan, seperti standar keselamatan elektronik, keamanan produk, dan
+persyaratan lingkungan.
+
+2. Produk harus dirancang sedemikian rupa sehingga tidak ada risiko kebakaran atau ledakan ketika digunakan dengan benar.
+Produk juga harus dilengkapi dengan tindakan pengamanan seperti sensor panas dan alat pemadam api otomatis.
+
+3. Produk harus menghindari potensi kecelakaan saat digunakan, seperti cedera fisik atau trauma pada pengguna. Produk harus mempertimbangkan faktor ergonomic, seperti tinggi dan lebar kursi, untuk memastikan kenyamanan dan keselamatan pengguna.
+
+4. Produk harus memiliki label peringatan dan petunjuk penggunaan yang jelas dan mudah dipahami oleh pengguna. Label harus
+mencakup informasi tentang bahaya dan peringatan penting yang berkaitan dengan penggunaan produk.
+
+5. Produk harus memiliki fitur keamanan yang membatasi akses pengguna yang tidak sah. Ini dapat mencakup perlindungan password atau perangkat lunak enkripsi yang terenkripsi untuk melindungi informasi pribadi dan data penting.
+
+6. Produk harus memiliki fitur cadangan atau pemulihan darurat yang memungkinkan pengguna untuk mengembalikan data dan informasi setelah kehilangan atau kegagalan sistem.
+
+7. Produk harus dirancang untuk memenuhi persyaratan keselamatan yang diperlukan oleh badan pengatur atau sertifikasi. Ini mungkin mencakup persyaratan UL atau sertifikasi CE
+
+Dalam mengembangkan produk, sangat penting untuk mempertimbangkan keamanan dan keselamatan pengguna sebagai prioritas utama. Tim pengembang harus berkolaborasi dengan ahli keselamatan dan badan pengatur untuk memastikan produk aman dan memenuhi standar keselamatan yang relevan.
+
+5.2 Persyaratan Keselamatan
+
+Berikut adalah beberapa persyaratan keamanan dan privasi yang dapat terkait dengan penggunaan produk:
+
+1. Persyaratan autentikasi pengguna: Produk harus menyediakan mekanisme autentikasi pengguna yang aman dan dapat diandalkan untuk mengakses fitur atau layanan yang sensitif. Mekanisme autentikasi harus memenuhi standar keamanan dan privasi yang berlaku.
+
+2. Persyaratan otorisasi pengguna: Produk harus memiliki mekanisme otorisasi yang tepat untuk mengontrol akses pengguna ke fitur atau layanan yang berbeda dalam sistem. Akses pengguna harus diatur berdasarkan peran, tanggung jawab, atau kebutuhan bisnis.
+
+3. Persyaratan enkripsi data: Produk harus dapat mengenkripsi data yang sensitif pada saat penyimpanan atau pengiriman data melalui jaringan untuk melindungi kerahasiaan dan integritas data.
+
+4. Persyaratan proteksi data: Produk harus dapat melindungi data sensitif dari kehilangan, penggunaan yang tidak sah, atau akse tidak sah. Data sensitif harus diidentifikasi dan dikelola secara khusus untuk meminimalkan risiko pelanggaran keamanan data
+
+5. Persyaratan pelaporan keamanan: Produk harus memiliki mekanisme pelaporan yang tepat untuk melaporkan pelanggaran keamanan atau aktivitas mencurigakan yang terkait dengan produk. Pelaporan harus dilakukan sesuai dengan standar industri atau peraturan yang berlaku.
+
+6. Persyaratan pemantauan keamanan: Produk harus memiliki kemampuan untuk memantau aktivitas pengguna dan sistem secara real-time untuk mendeteksi dan merespons ancaman keamanan. Pemantauan harus meliputi audit log, alarm keamanan, dan tindakan pencegahan atau mitigasi risiko.
+
+7. Persyaratan privasi data: Produk harus mematuhi standar privasi yang berlaku dan memproteksi data pribadi pengguna dengan tepat. Data pribadi harus diidentifikasi dan dikelola secara khusus untuk meminimalkan risiko pelanggaran privasi data.
+
+8. Persyaratan sertifikasi keamanan atau privasi: Produk harus memenuhi sertifikasi keamanan atau privasi yang berlaku untuk industri atau wilayah tertentu, seperti PCI DSS, HIPAA, atau GDPR. Produk harus memenuhi persyaratan sertifikasi untuk memastikan keamanan dan privasi yang tepat bagi pengguna produk.
+
+5.3 Persyaratan Keamanan
+
+Berikut adalah beberapa persyaratan keamanan dan privasi yang dapat terkait dengan penggunaan produk:
+
+1. Persyaratan autentikasi pengguna: Produk harus menyediakan mekanisme autentikasi pengguna yang aman dan dapat diandalkan untuk mengakses fitur atau layanan yang sensitif. Mekanisme autentikasi harus memenuhi standar keamanan dan privasi vana berlaku.
+
+2. Persyaratan otorisasi pengguna: Produk harus memiliki mekanisme otorisasi yang tepat untuk mengontrol akses pengguna ke fitur atau layanan yang berbeda dalam sistem. Akses pengguna harus diatur berdasarkan peran, tanggung jawab, atau kebutuhan bisnis.
+
+3. Persyaratan enkripsi data: Produk harus dapat mengenkripsi data yang sensitif pada saat penyimpanan atau pengiriman data melalui jaringan untuk melindungi kerahasiaan dan integritas data.
+
+4. Persyaratan proteksi data: Produk harus dapat melindungi data sensitif dari kehilangan, penggunaan yang tidak sah, atau akses
+tidak sah. Data sensitif harus diidentifikasi dan dikelola secara khusus untuk meminimalkan risiko pelanggaran keamanan data.
+
+5. Persyaratan pelaporan keamanan: Produk harus memiliki mekanisme pelaporan yang tepat untuk melaporkan pelanggaran keamanan atau aktivitas mencurigakan yang terkait dengan produk Pelaporan harus dilakukan sesuai dengan standar industri atau peraturan yang berlaku.
+
+6. Persyaratan pemantauan keamanan: Produk harus memiliki kemampuan untuk memantau aktivitas pengguna dan sistem secara real-time untuk mendeteksi dan merespons ancaman keamanan. Pemantauan harus meliputi audit log, alarm keamanan, dan tindakan pencegahan atau mitigasi risiko.
+
+5.4 Atribut Kualitas Perangkat Lunak
+
+1. Keandalan : Produk harus dapat diandalkan dan bekerja secara konsisten tanpa kesalahan atau gangguan yang signifikan.
+
+2. Penggunaan Kembali : Produk harus dirancang agar dapat digunakan kembali dalam berbagai lingkungan atau website, dengan memaksimalkan penggunaan kembali kode dan fungsi.
+
+3. Ketersediaan : Produk harus tersedia secara konsisten dan dapat diakses oleh pengguna kapan saja, di mana saja.
+
+4. Kegunaan: Produk harus mudah digunakan dan intuitif bagi pengguna, dengan navigasi yang jelas dan fitur-fitur yang mudah dipahami.
+
+5. Interoperabilitas : Produk harus kompatibel dengan perangkat lunak dan perangkat keras yang berbeda dan dapat berintegrasi dengan mudah dengan sistem yang ada.
+
+6. Pemeliharaan : Produk harus mudah dikelola dan dipelihara dengan biaya yang wajar dan waktu yang terbatas.
+
+7. Fleksibilitas : Produk harus dapat diadaptasi dan disesuaikan dengan kebutuhan pengguna dan perusahaan dengan cepat dan mudah.
+
+5.5 Atruran Bisnis
+
+Prinsip operasi produk mencakup:
+
+1. Hak akses dan peran pengguna: Prinsip ini menetapkan hak akses dan peran pengguna yang berbeda dalam sistem, seperti administrator, pengguna terdaftar, atau pengunjung anonim. Hal ini dapat memengaruhi persyaratan fungsional terkait dengan otorisasi, autentikasi, dan manajemen hak akses.
+
+2. Urutan operasi : Prinsip ini menentukan urutan operasi yang diperlukan untuk menjalankan fungsi atau mengakses fitur tertentu. Hal ini dapat memengaruhi persyaratan fungsional terkait dengan tata letak antarmuka pengguna, navigasi, dan perubahan status sistem.
+
+3. Konteks penggunaan: Prinsip ini menentukan kondisi atau konteks penggunaan yang memengaruhi cara produk dioperasikan, seperti penggunaan pada perangkat seluler, di lingkungan dengan koneksi internet yang tidak stabil, atau di lingkungan dengan keadaan darurat. Hal ini dapat memengaruhi persyaratan fungsional terkait dengan kecepatan, keandalan, dan tata letak antarmuka pengguna yang responsif.
+
+4. Aturan bisnis: Prinsip ini menentukan aturan bisnis dan kebijakan yang harus diterapkan pada produk, seperti aturan privasi atau kebijakan pengembalian. Hal ini dapat memengaruhi persyaratan fungsional terkait dengan manajemen data.
+
+BAB 6
+PERSYARATAN LAINNYA
+
+6.1 Lampiran A: Glosarium
+
+Berikut adalah daftar istilah dan akronim yang digunakan dalam SRS ini:
+
+1. Software: Serangkaian intruksi dan data yang diatur dalam bentuk program komputer yang dapat dijalankan pada perangkat keras computer. Software memberikan kerangka kerja bagi perangkat keras untuk menjalankan tugas-tugas tertentu dan menyediakan fungsionalitas yang diperlukan oleh penggunaan komputer.
+
+2. Website: Kumpulan halaman web tertaut yang dapat diakses melalui Internet. Setiap halaman web biasanya berisi teks, gambar, audio, video, atau elemen lain yang dirancang untuk memberikan informasi atau interaksi kepada pengguna.
+
+3. Server: Merupakan sistem yang memiliki layanan khusus berupa penyimpanan data server. Dimana server data tersebut akan menyimpan berbagai jenis dokumen dan menyediakan informasi untuk penggunanya atau pengunjung.
+
+4. DB: Database atau basis data merupakan kumpulan data yang akan dikelola sedemikian rupa dengan berdasarkan ketentuan tertentu dimana yang saling berhubungan sehingga mudah dalam pengelolaannya. Dengan melalui pengolahan tersebut pengguna dapat memperoleh kemudahan dalam mencari informasi, menyimpan informasi dan membuang informasi.
+
+5. CSS: bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa
+markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs
+
+6. Javascript: JavaScript adalah bahasa skrip yang digunakan untuk membuat konten halaman web dinamis, berfungsi untuk membuat elemen yang mampu meningkatkan interaksi pengunjung seperti menu drop-down, animasi, dan warna background dinamis
+
+7. HTML: bahasa markah standar untuk dokumen yang dirancang untuk ditampilkan di peramban internet.
+
+6.2 Lampiran B: Model Analisis
+
+1. Use Case
+
+![alt text](?raw=true)
+
+2. Flowcart Diagram
+
+![alt text](?raw=true)
