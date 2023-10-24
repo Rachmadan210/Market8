@@ -284,6 +284,6 @@ Menjelaskan mengenai proses yang akan dilakukan oleh sistem yang ada didalam web
 
 4.6 Halaman e-comerce pada tampilan ke enam
 
-![alt text](?raw=true)
+![alt text](https://github.com/Rachmadan210/Market8/blob/main/Tampilan%206%20Website%20Market%208.png.jpg?raw=true)
 
 
