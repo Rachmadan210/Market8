@@ -48,5 +48,31 @@
     <footer>
         <p>&copy; 2023 Kumpulan Link Online Shop</p>
     </footer>
+    
+    <script>
+      // Event Listener untuk tautan Shopee
+        document.querySelector('a[href="shopee.co.id/"]').addEventListener('click', function(event) {
+            event.preventDefault();
+            window.open('shopee.co.id/');
+        });
+
+        // Event Listener untuk tautan Alibaba
+        document.querySelector('a[href="www.tokopedia.com/"]').addEventListener('click', function(event) {
+            event.preventDefault();
+            window.open('www.tokopedia.com/');
+        });
+
+        // Animasi gambar Wallmart ketika diklik
+        const wallmartImage = document.querySelector('.Onlineshop img[src="Shopee.png"]');
+        shopeeImage.addEventListener('click', function() {
+            shopeeImage.style.transform = 'rotate(360deg)';
+        });
+
+        // Animasi gambar Alibaba ketika diklik
+        const alibabaImage = document.querySelector('.Onlineshop img[src="Tokopedia.png"]');
+        tokopediaImage.addEventListener('click', function() {
+            tokopediaImage.style.transform = 'rotate(360deg)';
+        });
+    </script>
 </body>
 </html>
