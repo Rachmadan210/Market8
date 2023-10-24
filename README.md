@@ -407,4 +407,4 @@ markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualn
 
 2. Flowcart Diagram
 
-![alt text](?raw=true)
+![alt text](https://github.com/Rachmadan210/Market8/blob/main/Flowrcart%20Diagram.png.jpg?raw=true)
