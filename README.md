@@ -80,8 +80,7 @@ pasarnya yaitu individu yang mencari suatu e-comerce yang juga menginginkan akse
 
 1.3 Konvensi Dokumen
 
-Konvensi tipografi yang umum digunakan dalam SRS meliputi penggunaan  ukuran font yang harus berada diukuran 12 untuk teks normal dan ukuran 10 untuk teks kecil. Lalu didalam Jenis font yang digunakan adalah Times New Roman atau Arial, lalu Warna font yang digunakan adalah hitam, lalu Jarak antar baris adalah 1,5 spasi, lalu Jarak antar paragraf adalah 2 spasi, lalu teks: Teks ditulis dengan huruf kecil kecuali untuk awal kalimat, nama, dan istilah khusus, huruf tebal atau italic untuk menyoroti kata-kata atau frasa yang penting, serta penggunaan nomor atau huruf untuk menyusun hierarki persyaratan. Selain itu, ada juga standar tertentu
-yang dapat diikuti, seperti IEEE 830 yang menetapkan format dan struktur umum untuk SRS.
+Konvensi tipografi yang umum digunakan dalam SRS meliputi penggunaan  ukuran font yang harus berada diukuran 12 untuk teks normal dan ukuran 10 untuk teks kecil. Lalu didalam Jenis font yang digunakan adalah Times New Roman atau Arial, lalu Warna font yang digunakan adalah hitam, lalu Jarak antar baris adalah 1,5 spasi, lalu Jarak antar paragraf adalah 2 spasi, lalu teks: Teks ditulis dengan huruf kecil kecuali untuk awal kalimat, nama, dan istilah khusus, huruf tebal atau italic untuk menyoroti kata-kata atau frasa yang penting, serta penggunaan nomor atau huruf untuk menyusun hierarki persyaratan. Selain itu, ada juga standar tertentu yang dapat diikuti, seperti IEEE 830 yang menetapkan format dan struktur umum untuk SRS.
 
 1.4 Audiens yang Dituju dan Saran Bacaan
 
@@ -207,7 +206,7 @@ Antarmuka pengguna adalah suatu elemen penting dalam sebuah perangkat lunak kare
 
 3. Tata letak: tata letak antarmuka pengguna harus dirancang sedemikian rupa sehingga mudah dipahami.
 
-3. Pesan permasalahan/eror : Tampilan pesan yang menunjukkan ketika ada suatu masalah atau eror ketika diakses yang di informasikan kepada pengguna dan pesan itu harus mudah di mengerti oleh pengguna yang diharuskan dan ditentukan masuk kedalam SRS.
+4. Pesan permasalahan/eror : Tampilan pesan yang menunjukkan ketika ada suatu masalah atau eror ketika diakses yang di informasikan kepada pengguna dan pesan itu harus mudah di mengerti oleh pengguna yang diharuskan dan ditentukan masuk kedalam SRS.
 
 Beberapa komponen perangkat lunak yang memerlukan antarmuka pengguna adalah menu, tombol, teks atau deskripsi, ,
 tampilan data, link akses cepat dan juga informasi e-comerce yang ada. Desain antarmuka pengguna yang lebih detail harus didokumentasikan dalam spesifikasi antarmuka pengguna yang terpisah. Spesifikasi tersebut harus mencakup deskripsi tentang semua elemen antarmuka pengguna, termasuk tata letak, tombol, menu, dan pintasan keyboard, serta bagaimana pengguna mengakses dan berinteraksi di dalam website.
