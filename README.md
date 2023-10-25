@@ -416,59 +416,113 @@ markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualn
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20html%201.jpg?raw=true)
 
 
- > Tag <HEAD> tugasnya adalah memberikan informasi tentang dokumen, maksudnya didalam tag <head> kita bisa menambahkan tag- tag yang biasanya digunakan untuk memberikan informasi berupa penulis, judul dokumen, kata kunci pada dokumen dan masih banyak lagi informasi yang bisa di tambahkan pada tag ini.
-  > I DOCTYPE untuk mendeklarasikan sebuah instruksi yang mengaitkan dokumen XML atau SGML tertentu dengan definisi tipe dokumen.
-  > deklarasi <html lang="en">memberi tahu browser bahwa semua konten di halaman tresebut adalah bahasa Inggris. subtag langjuga memiliki skrip atau penunjuk wilayah, yang memungkinkan Anda menentukan sistem penulisan bahasa atau wilayah geografis.
-  > UTF-8 adalah sebuah pengkodean karakter dengan lebar variabel tertentu yang mewakili setiap karakter komputer dalam himpunan karakter Unicode.
-  > menggunakan tag <meta name='viewport'>, kita bisa mengatur viewport sesuai kebutuhan. untuk bisa membuat web menjadi responsive.. kita membutuhkan bantuan dari tag <meta name='viewport'> untuk mengatur viewport.
-  > Tag <link>mendefinisikan hubungan antara dokumen saat ini dan sumber daya eksternal. Lalu ketika link rel maka, Diperlukan untuk Menentukan hubungan antara dokumen saat ini dan dokumen tertaut 
-  > Title bar adalah batang judul yang berfungsi untuk menampilkan nama dari jendela program tersebut.
-  > <body> sebagai bagian isi/konten yang ingin ditampilkan dalam sebuah halaman web
-  > Tag <div> digunakan sebagai wadah elemen HTML - yang kemudian ditata dengan CSS atau dimanipulasi dengan JavaScript.  Tag <div> mudah ditata dengan menggunakan atribut class atau id.  Segala jenis konten dapat dimasukkan ke dalam tag <div>
-  > Tag <img>digunakan untuk menyematkan gambar di halaman HTML. Gambar secara teknis tidak dimasukkan ke dalam halaman web; gambar ditautkan ke halaman web. Tag <img>menciptakan ruang penahan untuk gambar yang direferensikan.
-  > <h2> Tag HTML yang digunakan untuk menunjukkan bagian penting pada halaman website
-  > <p> untuk membuat paragraf
-  > Tag HTML <a> untuk Menunjukkan bahwa target dari link tersebut akan didownload ketika user mengkliknya lalu "href" menentukan untuk alamat URL atau nama ID halaman atau element yang akan dituju.
+  1. Tag <HEAD> tugasnya adalah memberikan informasi tentang dokumen, maksudnya didalam tag <head> kita bisa menambahkan tag- tag yang biasanya digunakan untuk memberikan informasi berupa penulis, judul dokumen, kata kunci pada dokumen dan masih banyak lagi informasi yang bisa di tambahkan pada tag ini.
+  2. I DOCTYPE untuk mendeklarasikan sebuah instruksi yang mengaitkan dokumen XML atau SGML tertentu dengan definisi tipe dokumen.
+  3. deklarasi <html lang="en">memberi tahu browser bahwa semua konten di halaman tresebut adalah bahasa Inggris. subtag langjuga memiliki skrip atau penunjuk wilayah, yang memungkinkan Anda menentukan sistem penulisan bahasa atau wilayah geografis.
+  4. UTF-8 adalah sebuah pengkodean karakter dengan lebar variabel tertentu yang mewakili setiap karakter komputer dalam himpunan karakter Unicode.
+  5. menggunakan tag <meta name='viewport'>, kita bisa mengatur viewport sesuai kebutuhan. untuk bisa membuat web menjadi responsive.. kita membutuhkan bantuan dari tag <meta name='viewport'> untuk mengatur viewport.
+  6. Tag <link>mendefinisikan hubungan antara dokumen saat ini dan sumber daya eksternal. Lalu ketika link rel maka, Diperlukan untuk Menentukan hubungan antara dokumen saat ini dan dokumen tertaut 
+  7. Title bar adalah batang judul yang berfungsi untuk menampilkan nama dari jendela program tersebut.
+  8. <body> sebagai bagian isi/konten yang ingin ditampilkan dalam sebuah halaman web
+  9. Tag <div> digunakan sebagai wadah elemen HTML - yang kemudian ditata dengan CSS atau dimanipulasi dengan JavaScript.  Tag <div> mudah ditata dengan menggunakan atribut class atau id.  Segala jenis konten dapat dimasukkan ke dalam tag <div>
+  10. Tag <img>digunakan untuk menyematkan gambar di halaman HTML. Gambar secara teknis tidak dimasukkan ke dalam halaman web; gambar ditautkan ke halaman web. Tag <img>menciptakan ruang penahan untuk gambar yang direferensikan.
+  11. <h2> Tag HTML yang digunakan untuk menunjukkan bagian penting pada halaman website
+  12. <p> untuk membuat paragraf
+  13. Tag HTML <a> untuk Menunjukkan bahwa target dari link tersebut akan didownload ketika user mengkliknya lalu "href" menentukan untuk alamat URL atau nama ID halaman atau element yang akan dituju.
 
   
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20html%201.jpg?raw=true)
 
 
-  > Tag <div> digunakan sebagai wadah elemen HTML - yang kemudian ditata dengan CSS atau dimanipulasi dengan JavaScript.  Tag <div> mudah ditata dengan menggunakan atribut class atau id.  Segala jenis konten dapat dimasukkan ke dalam tag <div>
-  > <br> untuk membuat baris baru
-  > Tag <img>digunakan untuk menyematkan gambar di halaman HTML. Gambar secara teknis tidak dimasukkan ke dalam halaman web; gambar ditautkan ke halaman web. Tag <img>menciptakan ruang penahan untuk gambar yang direferensikan.
-  > <h2> Tag HTML yang digunakan untuk menunjukkan bagian penting pada halaman website
-  > <p> untuk membuat paragraf
-  > Tag HTML <a> untuk Menunjukkan bahwa target dari link tersebut akan didownload ketika user mengkliknya lalu "href" menentukan untuk alamat URL atau nama ID halaman atau element yang akan dituju.
-  > <nav> pada HTML yang dibuat untuk mempresentasikan link navigasi.
-  > <ul> digunakan untuk menampilkan daftar item yang sejajar, tanpa prioritas atau urutan tertentu. Dalam praktiknya, kamu bisa menggunakan tag < ul > untuk mendefinisikan list dan tag < li > untuk setiap item dalam list.
-  > <li> Untuk membuat nested list di HTML, list tambahan harus diletakkan di dalam tag <li>. Fungsi li pada html adalah untuk menampilkan item pada unordered dan ordered list. Sedangkan pada description list tidak menggunakan tag <li>.
-  > <Footer> seringkali berisi informasi seperti: Tautan ke halaman penting seperti "Tentang Kami," "Kontak," "Kebijakan Privasi," dan lain-lain. Informasi kontak seperti alamat, nomor telepon, dan alamat email.
+  1. Tag <div> digunakan sebagai wadah elemen HTML - yang kemudian ditata dengan CSS atau dimanipulasi dengan JavaScript.  Tag <div> mudah ditata dengan menggunakan atribut class atau id.  Segala jenis konten dapat dimasukkan ke dalam tag <div>
+  2. <br> untuk membuat baris baru
+  3. Tag <img>digunakan untuk menyematkan gambar di halaman HTML. Gambar secara teknis tidak dimasukkan ke dalam halaman web; gambar ditautkan ke halaman web. Tag <img>menciptakan ruang penahan untuk gambar yang direferensikan.
+  4. <h2> Tag HTML yang digunakan untuk menunjukkan bagian penting pada halaman website
+  5. <p> untuk membuat paragraf
+  6. Tag HTML <a> untuk Menunjukkan bahwa target dari link tersebut akan didownload ketika user mengkliknya lalu "href" menentukan untuk alamat URL atau nama ID halaman atau element yang akan dituju.
+  7. <nav> pada HTML yang dibuat untuk mempresentasikan link navigasi.
+  8. <ul> digunakan untuk menampilkan daftar item yang sejajar, tanpa prioritas atau urutan tertentu. Dalam praktiknya, kamu bisa menggunakan tag < ul > untuk mendefinisikan list dan tag < li > untuk setiap item dalam list.
+  9. <li> Untuk membuat nested list di HTML, list tambahan harus diletakkan di dalam tag <li>. Fungsi li pada html adalah untuk menampilkan item pada unordered dan ordered list. Sedangkan pada description list tidak menggunakan tag <li>.
+  10. <Footer> seringkali berisi informasi seperti: Tautan ke halaman penting seperti "Tentang Kami," "Kontak," "Kebijakan Privasi," dan lain-lain. Informasi kontak seperti alamat, nomor telepon, dan alamat email.
 
 
 
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20html%203.jpg?raw=true)
 
 
-  > <p> untuk membuat paragraf
-  > Tag HTML <a> untuk Menunjukkan bahwa target dari link tersebut akan didownload ketika user mengkliknya lalu "href" menentukan untuk alamat URL atau nama ID halaman atau element yang akan dituju.
-  > Tag <div> digunakan sebagai wadah elemen HTML - yang kemudian ditata dengan CSS atau dimanipulasi dengan JavaScript.  Tag <div> mudah ditata dengan menggunakan atribut class atau id.  Segala jenis konten dapat dimasukkan ke dalam tag <div>
-  > <nav> pada HTML yang dibuat untuk mempresentasikan link navigasi.
-  > <ul> digunakan untuk menampilkan daftar item yang sejajar, tanpa prioritas atau urutan tertentu. Dalam praktiknya, kamu bisa menggunakan tag < ul > untuk mendefinisikan list dan tag < li > untuk setiap item dalam list.
-  > <li> Untuk membuat nested list di HTML, list tambahan harus diletakkan di dalam tag <li>. Fungsi li pada html adalah untuk menampilkan item pada unordered dan ordered list. Sedangkan pada description list tidak menggunakan tag <li>.
-  > <Footer> seringkali berisi informasi seperti: Tautan ke halaman penting seperti "Tentang Kami," "Kontak," "Kebijakan Privasi," dan lain-lain. Informasi kontak seperti alamat, nomor telepon, dan alamat email.
-  > <body> sebagai bagian isi/konten yang ingin ditampilkan dalam sebuah halaman web
-  > deklarasi <html lang="en">memberi tahu browser bahwa semua konten di halaman tresebut adalah bahasa Inggris. subtag langjuga memiliki skrip atau penunjuk wilayah, yang memungkinkan Anda menentukan sistem penulisan bahasa atau wilayah geografis.
+  1. <p> untuk membuat paragraf
+  2. Tag HTML <a> untuk Menunjukkan bahwa target dari link tersebut akan didownload ketika user mengkliknya lalu "href" menentukan untuk alamat URL atau nama ID halaman atau element yang akan dituju.
+  3. Tag <div> digunakan sebagai wadah elemen HTML - yang kemudian ditata dengan CSS atau dimanipulasi dengan JavaScript.  Tag <div> mudah ditata dengan menggunakan atribut class atau id.  Segala jenis konten dapat dimasukkan ke dalam tag <div>
+  4. <nav> pada HTML yang dibuat untuk mempresentasikan link navigasi.
+  5. <ul> digunakan untuk menampilkan daftar item yang sejajar, tanpa prioritas atau urutan tertentu. Dalam praktiknya, kamu bisa menggunakan tag < ul > untuk mendefinisikan list dan tag < li > untuk setiap item dalam list.
+  6. <li> Untuk membuat nested list di HTML, list tambahan harus diletakkan di dalam tag <li>. Fungsi li pada html adalah untuk menampilkan item pada unordered dan ordered list. Sedangkan pada description list tidak menggunakan tag <li>.
+  7. <Footer> seringkali berisi informasi seperti: Tautan ke halaman penting seperti "Tentang Kami," "Kontak," "Kebijakan Privasi," dan lain-lain. Informasi kontak seperti alamat, nomor telepon, dan alamat email.
+  8. <body> sebagai bagian isi/konten yang ingin ditampilkan dalam sebuah halaman web
+  9. deklarasi <html lang="en">memberi tahu browser bahwa semua konten di halaman tresebut adalah bahasa Inggris. subtag langjuga memiliki skrip atau penunjuk wilayah, yang memungkinkan Anda menentukan sistem penulisan bahasa atau wilayah geografis.
 
 3. Penjelasan source code CSS
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20css%201.jpg?raw=true)
 
 
+1. Margin berfungsi sebagai “penyangga” yang untuk mengatur layout dan penataan elemen atau memisahkan satu elemen dari elemen lainnya.
+2. Padding adalah ruang kosong atau space antara satu konten dengan konten yang lainnya. Dengan padding, tampilan website akan lebih teratur dan lebih menarik.
+3. Untuk mendeklarasikan aturan gaya pada isi halaman web, Anda perlu membuat aturan CSS untuk bodytag pemilih. Dan untuk menambahkan gambar latar belakang kesitus anda
+4. Untuk memberikan warna latar pada suatu elemen, menggunakan tag background-color.
+5. Deklarasi ini font-family: "Arial", Sans-Serif;mengatur jenis font (Arial) dan jenis font generik (Sans-Serif) untuk semua teks di halaman web.
+6. Color untuk mengatur warna dari elemen-elemen tertentu seperti teks dan latar belakang (background).
+7. Header memberikan identitas dan navigasi yang jelas bagi sebuah website.
+8. Tag text-align untuk menyelaraskan konten sebaris (yaitu: teks) dari elemen di dalam elemen blok induknya.
+9. Hanya gunakan satu elemen H1 pada halaman. elemen heading H1 sampai H6 memperkenalkan konten yang mengikutinya. heading tag H1 paling penting dari semua heading tag HTML lainnya. Semakin meningkat tingkat heading tag (H2, H3, H4, H5, dan H6), kepentingan kontennya dianggap semakin berkurang oleh mesin pencari.
+10. Font size digunakan untuk menentukan keterbacaan, aksesibilitas, dan juga estetika dari sebuah website. Melalui penggunaan properti font-size dalam CSS, kamu diberi kebebasan dan fleksibilitas untuk menyesuaikan tampilan teks, memastikan informasi disajikan dengan tampilan yang nyaman untuk pembaca.
+11. Container berfungsi untuk membungkus blok di dalamnya, sehingga terlihat rapi terhadap ukuran layar.
+
+
+
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20css%202.jpg?raw=true)
 
+
+1. Container berfungsi untuk membungkus blok di dalamnya, sehingga terlihat rapi terhadap ukuran layar
+2. Margin berfungsi sebagai “penyangga” yang untuk mengatur layout dan penataan elemen atau memisahkan satu elemen dari elemen lainnya.
+3. Padding adalah ruang kosong atau space antara satu konten dengan konten yang lainnya. Dengan padding, tampilan website akan lebih teratur dan lebih menarik.
+4. Onlineshop untuk mendeklarasikan bagian yang disebut "onlineshop"
+5. Untuk memberikan warna latar pada suatu elemen, menggunakan tag background-color.
+6. box-shadow digunakan untuk membuat bayangan untuk kotak atau elemen kontainer.
+7. Onlineshop untuk mendeklarasikan bagian yang disebut "onlineshop" dalam bentuk gambar menjadi "onlineshop img" yang didalamnya terdapat deklarasi tambahan yaitu "img"
+8. width yang berarti lebar Dengan begitu Anda bisa menyesuaikan ukuran lebar sesuai dengan kebutuhan Anda. Secara default ukuran width dan tergantung pada konten didalamnya. Lalu jika, Max-width yang berarti lebar maksimal
+9. menggunakan properti border, Anda tidak lagi menulis kode yang panjang seperti menggunakan border individu.
+10. Properti border-radius digunakan untuk membuat border atau perbatasan yang bulat. Agar Anda bisa melihat effek visual border-radius, sangat disarankan agar memberikan background-color atau border pada elemennya, ini tidak wajib, ini supaya Anda bisa melihat effek perbatasan yang bulat.
+11. tag H2 pada CSS untuk membuat heading atau sub-judul pada sebuah halaman web. Tag H2 memiliki ukuran dan tingkat kepentingan yang lebih rendah dari pada tag H1 tetapi lebih tinggi daripada tag H3, jadi pada onlineshop h2 maka akan mendeklarasikan sebuah onlineshop pada heading atau sub judul pada sebuah halaman web
+12. Font size digunakan untuk menentukan keterbacaan, aksesibilitas, dan juga estetika dari sebuah website. Melalui penggunaan properti font-size dalam CSS, kamu diberi kebebasan dan fleksibilitas untuk menyesuaikan tampilan teks, memastikan informasi disajikan dengan tampilan yang nyaman untuk pembaca.
+13. Color untuk mengatur warna dari elemen-elemen tertentu seperti teks dan latar belakang (background).
 
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20css%203.jpg?raw=true)
 
 
+1. Tag <p> untuk sebuah Paragraf, ialah kumpulan dari beberapa kalimat.
+2. Line height untuk mengatur jarak tulisan pada situs
+3. elemen Nav dibuat untuk integritas link navigasi.
+4. Properti text-decoration adalah properti untuk memberikan dekorasi garis pada teks. Contohnya seperti garis bawah, garis atas, dan garis di tengah (teks tercoret).
+5. Color untuk mengatur warna dari elemen-elemen tertentu seperti teks dan latar belakang (background).
+6. font-weight, dapat mengubah ketebalan sebuah teks.
+7. <nav>: Elemen Bagian Navigasi, untuk menyediakan link navigasi, baik dalam dokumen saat ini atau ke dokumen lain. Jadi <nav> dan <ul> Keduanya dapat digunakan bersama untuk menu navigasi. Ul membuat daftar secara tidak berurutan. Tidak berurutan berarti item dalam daftar tidak akan berada dalam urutan tertentu. Anda dapat meletakkan "ul" elemen di dalamnya "nav" untuk menempatkan tautan Anda.
+8. list-style tag singkat untuk menentukan atau mengatur list dengan css dalam satu deklarasi
+9. Display berguna untuk mengatur tampilnya suatu elemen.
+10. justify-content digunakan untuk mensejajarkan item-item diantara flexbox agar container dari flexbox tersebut bisa mendistribusikan ruang kosong yang tersisa ketika item flex dalam satu baris tersebut tidak flexsibel atau meskipun flexsibel tapi sudah mencapai batas ukuran maksimum.
+11.  Untuk memberikan warna latar pada suatu elemen, menggunakan tag background-color.
+12.  Padding adalah ruang kosong atau space antara satu konten dengan konten yang lainnya. Dengan padding, tampilan website akan lebih teratur dan lebih menarik.
+13.  elemen Nav dibuat untuk integritas link navigasi. Lalu elemen li untuk menampilkan item pada unordered dan ordered list.
+14.  Margin berfungsi sebagai “penyangga” yang untuk mengatur layout dan penataan elemen atau memisahkan satu elemen dari elemen lainnya.
+
 ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20css%204.jpg?raw=true)
 
+
+1. Color untuk mengatur warna dari elemen-elemen tertentu seperti teks dan latar belakang (background).
+2. Padding adalah ruang kosong atau space antara satu konten dengan konten yang lainnya. Dengan padding, tampilan website akan lebih teratur dan lebih menarik.
+3. elemen Nav dibuat untuk integritas link navigasi. Lalu elemen li untuk menampilkan item pada unordered dan ordered list.
+4. elemen Nav dibuat untuk integritas link navigasi. elemen Nav dibuat untuk integritas link navigasi.
+5. Properti text-decoration adalah properti untuk memberikan dekorasi garis pada teks. Contohnya seperti garis bawah, garis atas, dan garis di tengah (teks tercoret).
+6. Color untuk mengatur warna dari elemen-elemen tertentu seperti teks dan latar belakang (background).
+7. font-weight, dapat mengubah ketebalan sebuah teks.
+8. Footer adalah bagian bawah dokumen. Letaknya di bawah badan utama atau body. Tag <footer> mendefinisikan footer untuk dokumen atau bagian.
+9. text-align berfungsi untuk mengatur posisi teks
+10. Tag footer untuk mendefinisikan dokumen atau bagian jadi ketik <p> untuk membuat paragraf, maka footer p untuk mendefinisikan dokumen pada suatu paragraf
