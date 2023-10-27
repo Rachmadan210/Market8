@@ -45,6 +45,13 @@ header h1 {
     border-radius: 5px;
 }
 
+.Onlineshop img {
+    max-width: 100px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    transition: transform 0.3s; /* Menggunakan transition untuk animasi rotasi */
+}
+
 /* Style h2 .Onlineshop */
 .Onlineshop h2 {
     font-size: 1.5em;
