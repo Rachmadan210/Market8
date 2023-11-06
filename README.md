@@ -1,20 +1,23 @@
 # Market8
 
-Kelompok 8 Pemrograman WEB 2022MIB
+Spesifikasi Kebutuhan Perangkat lunak
+untuk
+Market8 : Kumpulan Website Marketplace
 
-Disusun ole:
+Disusun oleh:
+
+Kelompok 8 Pemrograman WEB 2022MIB
 
 1. ADAM ZUHRUF ANANDA FARENDRA (22091397055)
 2. ALLAN JULI SANJAYA (22091397052)
 3. RACHMADAN NAUVAL HIDAYAT AKBAR (220913970B72
 
 Program Studi D4 Manajemen Informatika
-
 Fakultas Vokasi
-
 Universitas Negeri Surabaya
-
 2023
+
+
 
 Datar Isi
 
