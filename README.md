@@ -1,12 +1,12 @@
 # Market8
 
-Spesifikasi Kebutuhan Perangkat lunak
+Spesifikasi Kebutuhan Perangkat Lunak
+
 untuk
+
 Market8 : Kumpulan Website Marketplace
 
 Disusun oleh:
-
-Kelompok 8 Pemrograman WEB 2022MIB
 
 1. ADAM ZUHRUF ANANDA FARENDRA (22091397055)
 2. ALLAN JULI SANJAYA (22091397052)
