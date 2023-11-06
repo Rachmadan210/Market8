@@ -533,7 +533,7 @@ markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualn
 4. Penjelasan JavaSript
 
 
-   ![alt text]https://github.com/Rachmadan210/Market8/blob/main/SS%20JavaScrip.jpg(?raw=true)
+   ![alt text](https://github.com/Rachmadan210/Market8/blob/main/SS%20JavaScrip.jpg?raw=true)
 
    1. Tag <script> untuk mengawali suatau tag yg ada di dalam javascript itu sendiri.
    2. const adalah Anda tidak dapat mengubah isi dari variabel. Apabila var dan let dapat melakukan perubahan pada suatu variabel maka const tidak dapat melakukannya. Karena const sesuai dengan singkatannya yaitu konstanta yang berarti tetap.
