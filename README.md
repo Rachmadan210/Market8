@@ -533,4 +533,16 @@ markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualn
 4. Penjelasan JavaSript
 
 
-   ![alt text](?raw=true)
+   ![alt text]https://github.com/Rachmadan210/Market8/blob/main/SS%20JavaScrip.jpg(?raw=true)
+
+   1. Tag <script> untuk mengawali suatau tag yg ada di dalam javascript itu sendiri.
+   2. const adalah Anda tidak dapat mengubah isi dari variabel. Apabila var dan let dapat melakukan perubahan pada suatu variabel maka const tidak dapat melakukannya. Karena const sesuai dengan singkatannya yaitu konstanta yang berarti tetap.
+   3. Header memberikan identitas dan navigasi yang jelas bagi sebuah website.
+   4. querySelector()mengembalikan elemen pertama yang cocok dengan pemilih CSS.
+   5. Tag H1 dapat digunakan untuk memperkenalkan konten yang ada di halaman itu secara keseluruhan, yaitu untuk memberi nama topik yang ada atau untuk sekadar mencerminkan nama halaman itu sendiri.
+   6. addEventListener() untuk melampirkan event handler ke sebuah elemen.
+   7. mouse hover adalah elemen kontrol grafis yang diaktifkan ketika pengguna menggerakkan atau mengarahkan penunjuk ke area pemicu, biasanya dengan mouse, tetapi juga dimungkinkan dengan pena digital.
+   8. fungsi (function) merupakan salah satu konsep dasar yang sangat penting, blok kode yang dapat dipanggil atau dijalankan secara berulang, dan dapat mengembalikan nilai atau melakukan tugas tertentu di dalam program.
+   9. textContentmengatur atau mengembalikan konten teks dari node yang ditentukan, dan semua turunannya.
+   10. <body> sebagai bagian isi/konten yang ingin ditampilkan dalam sebuah halaman web.
+   11. <html> adalah elemen penting untuk membangun struktur dan tampilan konten halaman web.
