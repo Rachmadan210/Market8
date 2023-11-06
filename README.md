@@ -528,3 +528,9 @@ markup, seperti HTML CSS berfungsi untuk memisahkan konten dari tampilan visualn
 8. Footer adalah bagian bawah dokumen. Letaknya di bawah badan utama atau body. Tag <footer> mendefinisikan footer untuk dokumen atau bagian.
 9. text-align berfungsi untuk mengatur posisi teks
 10. Tag footer untuk mendefinisikan dokumen atau bagian jadi ketik <p> untuk membuat paragraf, maka footer p untuk mendefinisikan dokumen pada suatu paragraf
+
+
+4. Penjelasan JavaSript
+
+
+   ![alt text](?raw=true)
